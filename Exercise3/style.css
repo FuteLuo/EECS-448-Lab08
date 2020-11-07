@@ -1,0 +1,56 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url(background.jpg) ;
+    background-size: cover;
+}
+
+.box{
+    width: 450px;
+    background-color:rgb(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+
+}
+
+.pro-box
+{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+}
+.Name
+{
+    font-size: 25px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    color: red;
+}
+
+.intro
+{
+    text-align: justify;
+    color: white;
+}
+
+ul
+{
+    margin: 0;
+    padding: 0;
+}
+
+.box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+    color: white;
+
+}
+.box li a{
+    color: red;
+}
+
